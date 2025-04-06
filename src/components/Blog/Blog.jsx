@@ -1,8 +1,8 @@
 import React from "react";
 import { FaBookmark } from "react-icons/fa6";
 
-const Blog = ({ blog }) => {
-  console.log(blog);
+const Blog = ({ blog,handleBookMark }) => {
+  // console.log(blog);
 
   const { cover, title, author_img, author, hashtags } = blog;
 
@@ -16,7 +16,7 @@ const Blog = ({ blog }) => {
           <div className="flex items-center justify-around gap-2">
             <img className="w-16" src={author_img} alt="" />
             <h2 className="font-bold">{author}</h2>
-            <FaBookmark size={25} color="red" />
+            <button onClick={()=>handleBookMark(blog)}><FaBookmark size={25} color="red" /></button>
           </div>
           <h2 className="card-title">{title}</h2>
           <p>
@@ -25,7 +25,7 @@ const Blog = ({ blog }) => {
           </p>
          <div className="flex">
          {
-            hashtags.map(has=><p className="font-bold">{has}</p>)
+            hashtags.map(has=><p key={has} className="font-bold">{has}</p>)
           }
          </div>
           <div className="card-actions justify-end">
