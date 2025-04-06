@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/spZNGtLb/picture-1.jpg",
+      "title": "Mastering JavaScript in 30 Days",
+      "author_img": "https://i.ibb.co.com/jZWKwJ2v/auther-1.jpg",
+      "author": "Alice Johnson",
+      "posted_date": "2025-04-01",
+      "reading_time": "5 min read",
+      "hashtags": ["#JavaScript", "#WebDev", "#Coding"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/vvcrKXVW/picture-2.jpg",
+      "title": "Designing Beautiful Interfaces with Figma",
+      "author_img": "https://i.ibb.co.com/GQ4c8gWY/author-2.jpg",
+      "author": "Bob Smith",
+      "posted_date": "2025-03-28",
+      "reading_time": "7 min read",
+      "hashtags": ["#Design", "#Figma"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/DH2WwRzt/picture-3.jpg",
+      "title": "The Future of AI in Web Development",
+      "author_img": "https://i.ibb.co.com/tTzD8jYp/author-3.jpg",
+      "author": "Charlie Brown",
+      "posted_date": "2025-03-25",
+      "reading_time": "6 min read",
+      "hashtags": ["#AI", "#WebDev"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/vvcrKXVW/picture-2.jpg",
+      "title": "CSS Grid vs Flexbox: What to Use When",
+      "author_img": "https://i.ibb.co.com/GQ4c8gWY/author-2.jpg",
+      "author": "Diana Lee",
+      "posted_date": "2025-03-20",
+      "reading_time": "4 min read",
+      "hashtags": ["#CSS", "#Flexbox", "#Grid"]
+    }
+  ]
+  
