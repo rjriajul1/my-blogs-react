@@ -6,7 +6,7 @@
       "author_img": "https://i.ibb.co.com/jZWKwJ2v/auther-1.jpg",
       "author": "Alice Johnson",
       "posted_date": "2025-04-01",
-      "reading_time": "5 min read",
+      "reading_time": "5",
       "hashtags": ["#JavaScript", "#WebDev", "#Coding"]
     },
     {
@@ -16,7 +16,7 @@
       "author_img": "https://i.ibb.co.com/GQ4c8gWY/author-2.jpg",
       "author": "Bob Smith",
       "posted_date": "2025-03-28",
-      "reading_time": "7 min read",
+      "reading_time": "7",
       "hashtags": ["#Design", "#Figma"]
     },
     {
@@ -26,7 +26,7 @@
       "author_img": "https://i.ibb.co.com/tTzD8jYp/author-3.jpg",
       "author": "Charlie Brown",
       "posted_date": "2025-03-25",
-      "reading_time": "6 min read",
+      "reading_time": "6",
       "hashtags": ["#AI", "#WebDev"]
     },
     {
@@ -36,7 +36,7 @@
       "author_img": "https://i.ibb.co.com/GQ4c8gWY/author-2.jpg",
       "author": "Diana Lee",
       "posted_date": "2025-03-20",
-      "reading_time": "4 min read",
+      "reading_time": "4",
       "hashtags": ["#CSS", "#Flexbox", "#Grid"]
     }
   ]
